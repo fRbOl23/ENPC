@@ -1,0 +1,19 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Nested git repos (tracked separately)
+Bootcamp Python/
+MMD/TPA1/
+
+# Obsidian per-device state
+.obsidian/workspace*.json
+.obsidian/cache
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
